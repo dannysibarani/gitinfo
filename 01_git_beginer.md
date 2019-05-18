@@ -24,10 +24,11 @@ Collaborate on github:
 1. Fork (do it from github)
 	-> Fork gitinfo from dannyadil to dannysibarani
 2. Clone (on git bash)
-	i. cd gitinfo
-	ii. git remote add upstream git@github.com:dannyadil/gitinfo.git
-	iii. This will now allow you to pull in changes from the source locally and merge them, like so:
-		a. git fetch upstream
-		b. git merge upstream/master
+2.1. git clone git@github.com:dannyadil/gitinfo.git
+2.2. cd gitinfo
+2.3. git remote add upstream git@github.com:dannyadil/gitinfo.git
+2.4. This will now allow you to pull in changes from the source locally and merge them, like so:
+2.4.1. git fetch upstream
+2.4.2. git merge upstream/master
 3. 
 	
